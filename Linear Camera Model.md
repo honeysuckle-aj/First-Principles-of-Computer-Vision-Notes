@@ -10,13 +10,13 @@ the **Z axis** of the **camera coordinate frame** is aligned with the **optical 
 - $x_c$: x in the Camera coodinates
 - $x_i$: x in the Image coodinates
 
-## [[Perspective Projection]]
+# [[Perspective Projection]]
 
 Camera to Image
 
 ![[Pasted image 20240808235743.png]]
 
-### Image plane to Image sensor plane
+## Image plane to Image sensor plane
 
 Image plane(milimeter)
 
@@ -45,6 +45,7 @@ Then the [[Perspective Projection]] equations can be reformatted:
 ![[Pasted image 20240809105650.png]] #formula #intrinsic-matrix
 ![[Pasted image 20240809110137.png]] #formula #calibration-matrix
 ![[Pasted image 20240809110205.png]] #formula #intrinsic-matrix 
+![[Pasted image 20240810105840.png]]
 # External Paremeters
 World coordinates to Camera coordinates
 ![[Pasted image 20240809110432.png]]  #formula #orientation
@@ -59,3 +60,7 @@ Rewriting using homogeneous coordinates:
 ![[Pasted image 20240809111222.png]]
 ![[Pasted image 20240809111235.png]] #formula #extrinsic-matrix
 
+![[Pasted image 20240810105743.png]]
+# Projection Matrix P
+Combining #calibration-matrix rinsic and #extrinsic-matrix .
+![[Pasted image 20240810105928.png]] #projection-matrix #formula 

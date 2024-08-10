@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Camera Model.md",
+                "file": "Camera Calibration Procedure.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formula",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f5f7714f8ab21918",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Camera Model.md",
+                "file": "Camera Calibration Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Camera Model.md",
+                "file": "Camera Calibration Procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Camera Model.md"
+                "file": "Camera Calibration Procedure.md"
               }
             }
           },
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,23 +155,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12d0a6bb04a3179",
+  "active": "85bc4aecf8a80758",
   "lastOpenFiles": [
-    "attachments/Pasted image 20240809111235.png",
-    "attachments/Pasted image 20240809111222.png",
-    "attachments/Pasted image 20240809111114.png",
-    "attachments/Pasted image 20240809111044.png",
-    "attachments/Pasted image 20240809110606.png",
-    "attachments/Pasted image 20240809110432.png",
-    "attachments/Pasted image 20240809110205.png",
-    "attachments/Pasted image 20240809110137.png",
+    "attachments/Pasted image 20240810112551.png",
+    "attachments/Pasted image 20240810112508.png",
+    "attachments/Pasted image 20240810112458.png",
+    "attachments/Pasted image 20240810112322.png",
+    "attachments/Pasted image 20240810112308.png",
+    "attachments/Pasted image 20240810111823.png",
+    "attachments/Pasted image 20240810111815.png",
+    "attachments/Pasted image 20240810111656.png",
+    "attachments/Pasted image 20240810111628.png",
+    "attachments/Pasted image 20240810111601.png",
+    "attachments/Pasted image 20240810111543.png",
+    "Camera Calibration.md",
     "Linear Camera Model.md",
-    "attachments/Pasted image 20240809105650.png",
-    "attachments/Pasted image 20240809105517.png",
-    "attachments/Pasted image 20240809105303.png",
+    "Camera Calibration Procedure.md",
     "Forward Imaging Model.md",
     "README.md",
-    "Camera Calibration.md",
     "CONTENTS.md",
     "Perspective Projection.md",
     "attachments"

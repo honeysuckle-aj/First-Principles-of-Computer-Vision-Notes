@@ -1,0 +1,38 @@
+Now we have a [[Linear Camera Model]], which is given by the #projection-matrix .
+We are ready to calibrate the camera, which means estimate the projection matrix
+# Procedure
+1. Capture an image of an object *with known geometry*
+	1. we have known everuthing about this cube in terms of its **dimensions**, **every point on this cube** and **every visual feature in 3D**, etc.
+	2. ![[Pasted image 20240810110237.png]]
+	3. ![[Pasted image 20240810111226.png]]
+2. Identify *correspndences* berween 3D scene points and image points.
+	1. ![[Pasted image 20240810111340.png]]
+3. For each corresponding point i in scene nad image:
+	1. using #projection-matrix 
+	2. ![[Pasted image 20240810111509.png]]
+	3. expanding the matrix as linear equations![[Pasted image 20240810111601.png]]
+4. Rearranging the terms:
+	1. ![[Pasted image 20240810111628.png]]
+5. Solve for P
+	1. ![[Pasted image 20240810111656.png]]
+# Solve for P
+## Scale of Projection Matrix
+Projection matrix acts on homogeneous coordinates
+![[Pasted image 20240810111815.png]]
+![[Pasted image 20240810111823.png]]
+Therefore, #projection-matrix $p$ and $kp$ means the same projection.
+*Scaling the projection matrix, implies simultaneously scaling the world and camera, which does not change the image*
+We can choose any scale we wish.
+## Least Squares Solution for P
+### option 1
+![[Pasted image 20240810112308.png]]
+### option 2
+![[Pasted image 20240810112322.png]]
+We want $Ap$ as close to 0 as possible and $||p||^2=1$ :
+![[Pasted image 20240810112458.png]]
+![[Pasted image 20240810112508.png]]
+![[Pasted image 20240810112551.png]]
+[[eigenvector]] p with smallest [[eigenvalue]] $\lambda$ of matrix $A^T A$ minimize the loss function $L(p)$
+
+Finally we rearrange the elements of p to get our projection matrix $P$.
+
