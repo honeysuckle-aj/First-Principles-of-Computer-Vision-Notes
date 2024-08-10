@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera Calibration Procedure.md",
+                "file": "Ectracting Intrinsic and Extrinsic Matrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f5f7714f8ab21918",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera Calibration Procedure.md",
+                "file": "Ectracting Intrinsic and Extrinsic Matrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera Calibration Procedure.md",
+                "file": "Ectracting Intrinsic and Extrinsic Matrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera Calibration Procedure.md"
+                "file": "Ectracting Intrinsic and Extrinsic Matrics.md"
               }
             }
           },
@@ -155,22 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85bc4aecf8a80758",
+  "active": "d12d0a6bb04a3179",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240810154640.png",
+    "QR factorization.md",
+    "Ectracting Intrinsic and Extrinsic Matrics.md",
+    "attachments/Pasted image 20240810154118.png",
+    "attachments/Pasted image 20240810152743.png",
+    "attachments/Pasted image 20240810152723.png",
+    "attachments/Pasted image 20240810152233.png",
+    "attachments/Pasted image 20240810152206.png",
+    "Camera Calibration.md",
+    "Camera Calibration Procedure.md",
     "attachments/Pasted image 20240810112551.png",
     "attachments/Pasted image 20240810112508.png",
     "attachments/Pasted image 20240810112458.png",
     "attachments/Pasted image 20240810112322.png",
     "attachments/Pasted image 20240810112308.png",
-    "attachments/Pasted image 20240810111823.png",
-    "attachments/Pasted image 20240810111815.png",
-    "attachments/Pasted image 20240810111656.png",
-    "attachments/Pasted image 20240810111628.png",
-    "attachments/Pasted image 20240810111601.png",
-    "attachments/Pasted image 20240810111543.png",
-    "Camera Calibration.md",
     "Linear Camera Model.md",
-    "Camera Calibration Procedure.md",
     "Forward Imaging Model.md",
     "README.md",
     "CONTENTS.md",
