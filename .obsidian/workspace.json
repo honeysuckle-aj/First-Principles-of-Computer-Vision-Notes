@@ -11,11 +11,10 @@
             "id": "d12d0a6bb04a3179",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Perspective Projection.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": true
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perspective Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perspective Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Perspective Projection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +151,9 @@
   },
   "active": "d12d0a6bb04a3179",
   "lastOpenFiles": [
+    "Perspective Projection.md",
     "Forward Imaging Model.md",
     "Linear Camera Model.md",
-    "Perspective Projection.md",
     "README.md",
     "attachments/Pasted image 20240808235709.png",
     "Camera Calibration.md",
