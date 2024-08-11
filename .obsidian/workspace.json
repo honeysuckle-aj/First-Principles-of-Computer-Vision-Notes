@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "777922c38ef3d02b",
+        "id": "a76991eb67ebadf7",
         "type": "tabs",
         "children": [
           {
-            "id": "d12d0a6bb04a3179",
+            "id": "24ce9ed72939ad33",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": true
+                "file": "Simple Stereo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Simple Stereo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Simple Stereo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Simple Stereo.md"
+              }
             }
           },
           {
@@ -149,18 +154,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d12d0a6bb04a3179",
+  "active": "24ce9ed72939ad33",
   "lastOpenFiles": [
-    "Perspective Projection.md",
+    "Camera Calibration.md",
+    "Simple Stereo.md",
+    "CONTENTS.md",
+    "QR factorization.md",
+    "Ectracting Intrinsic and Extrinsic Matrics.md",
     "Forward Imaging Model.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20240810154640.png",
+    "attachments/Pasted image 20240810154118.png",
+    "attachments/Pasted image 20240810152743.png",
+    "attachments/Pasted image 20240810152723.png",
+    "attachments/Pasted image 20240810152233.png",
+    "attachments/Pasted image 20240810152206.png",
+    "attachments/Pasted image 20240810112551.png",
+    "attachments/Pasted image 20240810112508.png",
+    "attachments/Pasted image 20240810112458.png",
+    "attachments/Pasted image 20240810112322.png",
+    "Camera Calibration Procedure.md",
+    "Perspective Projection.md",
     "Linear Camera Model.md",
     "README.md",
-    "attachments/Pasted image 20240808235709.png",
-    "Camera Calibration.md",
-    "CONTENTS.md",
-    "attachments/Pasted image 20240808235806.png",
-    "attachments/Pasted image 20240808235743.png",
-    "attachments",
-    "Pasted image 20240808235515.png"
+    "attachments"
   ]
 }
