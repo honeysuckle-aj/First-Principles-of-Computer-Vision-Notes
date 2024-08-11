@@ -3,4 +3,4 @@ Method to find a camera’s **internal and external parameters**
 [[Linear Camera Model]]
 [[Camera Calibration Procedure]]
 [[Ectracting Intrinsic and Extrinsic Matrics]]
-Example Application: **Simple Stereo**
+Example Application: [[Simple Stereo]]
