@@ -43,7 +43,7 @@ The homogeneos representation of a *2D* point $\textbf{u}=(u,v)$ is a *3D* point
 ![[Pasted image 20240809105517.png]]
 Then the [[Perspective Projection]] equations can be reformatted:
 ![[Pasted image 20240809105650.png]] #formula #intrinsic-matrix
-![[Pasted image 20240809110137.png]] #formula #calibration-matrix
+![[Pasted image 20240809110137.png]] #formula #calibration-matrix #camera-matrix
 ![[Pasted image 20240809110205.png]] #formula #intrinsic-matrix 
 ![[Pasted image 20240810105840.png]]
 # External Paremeters
