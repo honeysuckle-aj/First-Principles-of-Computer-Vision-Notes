@@ -2,7 +2,7 @@ Now we have a [[Linear Camera Model]], which is given by the #projection-matrix 
 We are ready to calibrate the camera, which means estimate the projection matrix
 # Procedure
 1. Capture an image of an object *with known geometry*
-	1. we have known everuthing about this cube in terms of its **dimensions**, **every point on this cube** and **every visual feature in 3D**, etc.
+	1. we have known everything about this cube in terms of its **dimensions**, **every point on this cube** and **every visual feature in 3D**, etc.
 	2. ![[Pasted image 20240810110237.png]]
 	3. ![[Pasted image 20240810111226.png]]
 2. Identify *correspndences* berween 3D scene points and image points.
