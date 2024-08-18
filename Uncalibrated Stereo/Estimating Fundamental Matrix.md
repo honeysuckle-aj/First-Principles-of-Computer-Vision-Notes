@@ -1,0 +1,20 @@
+# Calibration Procedure
+Find a set of corresponding features.
+![[Pasted image 20240818105018.png]]
+1. For each correspondence i, write out epipolar constraint
+2. ![[Pasted image 20240818105104.png]]
+3. Rearrange terms to form a liner system
+4. ![[Pasted image 20240818105125.png]]
+5. $A\mathrm{f} = 0$
+# The tale of missing scale
+#fundamental-matrix acts on homogenous coordinates
+![[Pasted image 20240818105309.png]]
+we can set #fundamental-matrix to some arbitrary scale:
+![[Pasted image 20240818105417.png]]
+# Solving for F
+![[Pasted image 20240818105541.png]]
+Like solving #projection-matrix 
+# Extracting Rotation and Translation
+Compute #essential-matrix E from known left and right #intrinsic-matrix and #fundamental-matrix F.
+![[Pasted image 20240818105749.png]]
+![[Pasted image 20240818105804.png]]
