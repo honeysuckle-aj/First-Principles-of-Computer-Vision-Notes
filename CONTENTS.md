@@ -1,3 +1,3 @@
-1. [[0. Camera Calibration]]
-2. [[0. Uncalibrated Stereo]]
+1. [[1. Camera Calibration]]
+2. [[2. Uncalibrated Stereo]]
 3. 
